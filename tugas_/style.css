@@ -1,0 +1,208 @@
+body {
+    background-color: lightgrey;
+}
+
+.h1{
+    background-color: rgb(0, 214, 168);
+    width: 1010px;
+    height: 400px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.box-1{
+    background-color: white;
+    width: 1010px;
+    height: 400px;
+    display: inline-block;
+}
+
+.box-2{
+    background-color: white;
+    width: 605px;
+    height: 400px;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.header{
+    background-color: rgb(241, 3, 122);
+    width: 100%;
+    height: 30%;
+    display: inline-block;
+}
+
+.box-2 h1{
+    margin-left: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.box-2 h2{
+    margin-left: 20px;
+    font-weight: 500;
+    line-height: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-2 h3{
+    background-color: lightgray;
+    color: lightgray;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 2px;
+}
+
+.box-2 p{
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.experience{
+    color: rgb(255, 0, 0);
+    padding-top: 230px;
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.box-3{
+    background-color: rgb(0, 0, 0);
+    color: rgb(13, 238, 238);
+    width: 20%;
+    height: 5%;
+    padding-left: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box-2 p span{
+    font-weight: 400;
+}
+
+.box-2 h1 span{
+    font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header2{
+    background-color: white;
+    width: 910px;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 20px;
+}
+
+.education{
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box-4{
+    width: 498px;
+    height: 200px;
+    margin-right: 15px;
+    margin-left: 245px;
+    margin-bottom: 50px;
+    background-color: white;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.box-5{
+    width: 498px;
+    height: 200px;
+    background-color:white ;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.box-6{
+    width: 498px;
+    height: 200px;
+    margin-right: 15px;
+    margin-left: 245px;
+    margin-bottom: 50px;
+    background-color:white ;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.box-7{
+    width: 498px;
+    height: 200px;
+    background-color:white ;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.box-8{
+    width: 498px;
+    height: 200px;
+    margin-right: 15px;
+    margin-left: 245px;
+    margin-bottom: 50px;
+    background-color:white ;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.box-9{
+    width: 498px;
+    height: 200px;
+    background-color:white ;
+    overflow: hidden;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.box-4 p{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box-5 p{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box-6 p{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box-7 p{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box-8 p{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.box-9 p{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.header3{
+    background-color: lightgray;
+    width: 1500px;
+    height: 800px;
+    margin: auto;
+    padding-top: 30px;
+}
